@@ -1,6 +1,7 @@
 class Assignment1 {
   public static int[] findLeapYears(int year) {
   // Implement your code here and change the return value accordingly
+    
   return null;
   }
   
